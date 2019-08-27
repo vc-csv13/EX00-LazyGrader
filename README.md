@@ -32,7 +32,7 @@ information it needs to work correctly.
 
 Everybody has already been given an account with a default password.
 In order to start this assignment, go to 
-[https://www.vc-computerscience.club:8080](https://www.vc-computerscience.club:8080){:target="_blank"}. There you should be greeted
+[http://www.vc-computerscience.club:8080](http://www.vc-computerscience.club:8080){:target="_blank"}. There you should be greeted
 by a login similar to the following screenshot:
 
 ![Image of login screen](login.png)
